@@ -2,7 +2,7 @@
 
 This repository was created to compare the performance of some popular community-made unit-converters.
 
-Clone this repository and run `npm install && npm start index` to run the benchmarks on your computer.
+Clone this repository and run `npm install`, `npm run watch` (in another terminal) and finally `npm start index` to run the benchmarks on your computer.
 
 ## How it works
 
