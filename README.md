@@ -6,7 +6,7 @@ Clone this repository and run `npm install && npm start index` to run the benchm
 
 ## How it works
 
-First every library gets called 1000 times to allow the runtime to warmup. Afterward 200.000 trials are performed for each library. The results on my computer are displayed below:
+First every library gets called 1000 times to allow the runtime to warmup. Afterwards 200.000 trials are performed for each library. The results on my computer are displayed below:
 
 ## Results
 
